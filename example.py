@@ -1,4 +1,4 @@
-from main import get_database_connection
+from .main import get_database_connection
 
 
 #connect to the database and get instance
